@@ -1,0 +1,2 @@
+fruit = list()
+fruit

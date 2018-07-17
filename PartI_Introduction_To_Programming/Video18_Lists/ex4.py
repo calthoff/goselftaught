@@ -1,0 +1,2 @@
+fruit = [ ]
+fruit
