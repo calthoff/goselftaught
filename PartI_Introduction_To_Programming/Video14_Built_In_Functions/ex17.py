@@ -1,0 +1,2 @@
+len("Monty")
+len("Python")
