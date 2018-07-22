@@ -1,0 +1,1 @@
+$ grep idea.$ zen.txt
