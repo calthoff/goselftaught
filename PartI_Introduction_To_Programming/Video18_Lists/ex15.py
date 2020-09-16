@@ -1,2 +1,2 @@
-olors = ["blue","green","yellow"]
+colors = ["blue","green","yellow"]
 len(colors)
