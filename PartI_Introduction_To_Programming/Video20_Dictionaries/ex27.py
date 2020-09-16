@@ -1,3 +1,3 @@
-bill = dict({"Bill Gates": "charitable"})
+bill = {"Bill Gates": "charitable"}
 
 "Bill Doors" not in bill
