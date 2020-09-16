@@ -6,7 +6,6 @@ else:
 
 
 n = 11
-n = int(n)
 if n % 2 == 0:
     print("n is even.")
 else:
@@ -14,7 +13,6 @@ else:
 
 
 n = 10
-n = int(n)
 if n % 2 == 0:
     print("n is even.")
 else:
